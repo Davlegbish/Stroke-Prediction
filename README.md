@@ -1,9 +1,9 @@
 # Stroke-Prediction Model
 The Stroke Prediction Model is a Python-based project that uses libraries such as Seaborn and Matplotlib for visualization, along with machine learning libraries, to predict the likelihood of stroke in patients. The goal of this project is to extract insights from the given data on potential stroke patients and to predict the risk of stroke based on the analyzed information.
 
-##Code Breakdown
+#Code Breakdown
 
-###This dataset includes information on patients' ages, medical conditions, residency, and marital status, providing the necessary insights to make predictions.
+#This dataset includes information on patients' ages, medical conditions, residency, and marital status, providing the necessary insights to make predictions.
 ![Screenshot 2024-05-25 233319](https://github.com/Davlegbish/Stroke-Prediction/assets/155652335/d4411112-6176-4948-9f8a-e1bf1c7c902c)
 
 ###Summarizing patients' ages and medical fitness.
