@@ -13,7 +13,7 @@ The Stroke Prediction Model is a Python-based project that uses libraries such a
 
 3.Visualizing the likelihood of patients who have had a stroke.
 
-![Screenshot (26)](https://github.com/Davlegbish/Stroke-Prediction/assets/155652335/e374bdf1-41f4-4739-b80a-c60c98f1602d)
+![Screenshot (26)](https://github.com/Davlegbish/Stroke-Prediction/assets/155652335/2fe9bbbc-3ace-4357-9ce3-ba3c59d6e678)
 
 4.Visualizing patients who have a history of smoking .
 
